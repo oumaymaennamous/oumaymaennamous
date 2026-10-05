@@ -17,49 +17,6 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 
 🎯 **Currently looking for a Final-Year Internship (PFE) in Data Science / AI starting February 2027.**
 
----
-
-## 💼 Professional Experience
-
-### 🇫🇷 Lizeo Group — Data / AI Engineering
-**2026**
-
-- Data quality and KPI analysis
-- Migration of data processing from Pandas to Polars
-- Data applications with Streamlit and Snowflake
-- Snowflake Cortex AI / conversational agent
-- Data anomaly and quality detection
-- HTML → Markdown data processing
-
-**Tech:** Python · Polars · Snowflake · Streamlit · SQL
-
----
-
-### 🇲🇦 OCP Group — Data Analyst
-**2025**
-
-- Development of Power BI dashboards
-- Energy consumption analysis
-- ETL and data preparation
-- KPI monitoring
-- Diesel overconsumption analysis
-
-**Tech:** Python · SQL · Power BI · DAX · ETL
-
----
-
-### 🇲🇦 OCP Group — Data Scientist
-**2024**
-
-- Route optimization
-- Automated driver assignment
-- Exploratory data analysis
-- Machine Learning
-- Data preprocessing and model evaluation
-
-**Tech:** Python · Pandas · SQL · Scikit-learn
-
----
 
 # 🛠️ Tech Stack
 
