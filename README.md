@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oumayma Ennamous
 
-### 🎓 Data Science & AI Engineering Student | Big Data × Cybersecurity
+### Data Science & AI Engineering Student | Big Data × Cybersecurity
 
 Engineering student with a **double academic background between Morocco and France**, combining:
 
@@ -11,7 +11,7 @@ I have professional experience in **Data Science, Data Analysis and Data Quality
 
 My profile combines:
 
-> 📊 **Data** × 🤖 **Artificial Intelligence** × 🔐 **Cybersecurity**
+> **Data** × **Artificial Intelligence** × **Cybersecurity**
 
 I'm interested in building **reliable, scalable and secure data-driven solutions**.
 
