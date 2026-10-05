@@ -15,10 +15,10 @@ My profile combines:
 
 I'm interested in building **reliable, scalable and secure data-driven solutions**.
 
-🎯 **Currently looking for a Final-Year Internship (PFE) in Data Science / AI starting February 2027.**
+ **Currently looking for a Final-Year Internship (PFE) in Data Science / AI starting February 2027.**
 
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### 💻 Programming Languages
 
