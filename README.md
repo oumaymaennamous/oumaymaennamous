@@ -20,7 +20,7 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 
 #  Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,7 +29,7 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Data Science & Artificial Intelligence
+### Data Science & Artificial Intelligence
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
@@ -38,7 +38,7 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### 🏢 Data Engineering & Business Intelligence
+### Data Engineering & Business Intelligence
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -46,14 +46,14 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### ☁️ Big Data & Cloud
+### Big Data & Cloud
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Snowpark](https://img.shields.io/badge/Snowpark-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### 🔐 Cybersecurity & Infrastructure
+### Cybersecurity & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -62,7 +62,7 @@ I'm interested in building **reliable, scalable and secure data-driven solutions
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
 
-### 🧰 Tools & Development
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
